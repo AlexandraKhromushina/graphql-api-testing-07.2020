@@ -1,0 +1,24 @@
+{
+  "name": "api-tests",
+  "version": "1.0.0",
+  "dependencies": {
+    "chai-http": "^4.3.0",
+    "graphql": "^15.5.0",
+    "graphql-request": "^3.4.0",
+    "superagent": "^6.1.0",
+    "text-encoding": "^0.7.0",
+    "tslog": "^3.2.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "bluebird": "^3.7.2",
+    "chai": "^4.3.4",
+    "dotenv": "^10.0.0",
+    "eosjs": "^22.1.0",
+    "eosjs-ecc": "^4.0.7",
+    "mocha": "^8.3.0",
+    "node": "^16.6.1",
+    "node-fetch": "^2.6.1",
+    "pg-promise": "^10.11.1"
+  }
+}
